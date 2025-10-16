@@ -358,6 +358,7 @@
             TLayout1_03_user.TabIndex = 2;
             TLayout1_03_user.Text = "User Name";
             TLayout1_03_user.TextAlign = ContentAlignment.MiddleLeft;
+            TLayout1_03_user.Click += TLayout1_03_user_Click;
             // 
             // Tab11
             // 

@@ -36,6 +36,8 @@ namespace TokatsApplication_v1._1
         string? key1;
         string? key2;
 
+        private Panel? profiel;
+
 
         ////////////////////////////////////////////////////////////
         ////////////////////フォーム画面各種調整////////////////////
@@ -434,6 +436,67 @@ namespace TokatsApplication_v1._1
             Y1010101 y1010101 = new Y1010101();
             y1010101.Show();
             this.Close();
+        }
+
+        private void TLayout1_03_user_Click(object sender, EventArgs e)
+        {
+            if (profiel == null)
+            {
+                // パネルの作成
+                profiel = new Panel();
+                profiel.Size = new Size(240, 300);
+                profiel.BackColor = System.Drawing.Color.White;
+                profiel.BorderStyle = BorderStyle.FixedSingle;
+
+                // 表示位置をアイコンの下に設定
+                Point buttonLocation = TLayout1_02_Icon.PointToScreen(Point.Empty);
+                Point formLocation = this.PointToScreen(Point.Empty);
+                int x = buttonLocation.X - formLocation.X;
+                int y = buttonLocation.Y - formLocation.Y + TLayout1_02_Icon.Height;
+
+                profiel.Location = new Point(x, y);
+
+                // 他のコントロールにかぶせるためにフォームに直接追加
+                this.Controls.Add(profiel);
+                profiel.BringToFront();
+
+                // パネル内にラベルなど追加可能
+                System.Windows.Forms.Label byType = new System.Windows.Forms.Label();
+                byType.Size = new Size(167, 35);
+                byType.Margin = new Padding(8, 8, 2, 2);
+                byType.Text = "現在のパスワード";
+                byType.Dock = DockStyle.Top;
+               profiel.Controls.Add(byType);
+
+                System.Windows.Forms.Button byPipe = new System.Windows.Forms.Button();
+                byPipe.Size = new Size(167, 35);
+                byPipe.Margin = new Padding(8, 8, 2, 2);
+                byPipe.Text = "管渠調査内容";
+                byPipe.Dock = DockStyle.Top;
+                profiel.Controls.Add(byPipe);
+
+                System.Windows.Forms.Button byHole = new System.Windows.Forms.Button();
+                byHole.Size = new Size(167, 35);
+                byHole.Margin = new Padding(8, 8, 2, 2);
+                byHole.Text = "人孔調査内容";
+                byHole.Dock = DockStyle.Top;
+                profiel.Controls.Add(byHole);
+
+                System.Windows.Forms.Button Submit = new System.Windows.Forms.Button();
+                Submit.Size = new Size(167, 35);
+                Submit.Margin = new Padding(8, 8, 2, 2);
+                Submit.Text = "パスワード変更";
+                Submit.Dock = DockStyle.Top;
+                profiel.Controls.Add(Submit);
+
+            }
+            else
+            {
+                // パネルが表示されていれば非表示にする
+                this.Controls.Remove(profiel);
+                profiel.Dispose();
+                profiel = null;
+            }
         }
     }
 }

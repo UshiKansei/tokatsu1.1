@@ -1928,11 +1928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\110000_公共事業部\\110900_公共事業部共有\\@包括業務管理システムTokats\\開発環境\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj",
+      "projectUniqueName": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj",
       "projectName": "TokatsApplication_v1.1",
-      "projectPath": "K:\\110000_公共事業部\\110900_公共事業部共有\\@包括業務管理システムTokats\\開発環境\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj",
+      "projectPath": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj",
       "packagesPath": "C:\\Users\\821040\\.nuget\\packages\\",
-      "outputPath": "K:\\110000_公共事業部\\110900_公共事業部共有\\@包括業務管理システムTokats\\開発環境\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\obj\\",
+      "outputPath": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

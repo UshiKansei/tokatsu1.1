@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\",
+  "WorkspaceRootPath": "C:\\Users\\821040\\TokatsApplication_v1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|k:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0tokats\\\u958B\u767A\u74B0\u5883\\01_project\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\dataasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\dataasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1010201.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1010201.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|k:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0tokats\\\u958B\u767A\u74B0\u5883\\01_project\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|k:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0tokats\\\u958B\u767A\u74B0\u5883\\01_project\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\y1010101.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\y1010101.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\y1010101.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|k:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0tokats\\\u958B\u767A\u74B0\u5883\\01_project\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1020101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1020101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\dataasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\dataasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|k:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0tokats\\\u958B\u767A\u74B0\u5883\\01_project\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1010201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|C:\\Users\\821040\\TokatsApplication_v1.1\\tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\y1010101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|c:\\users\\821040\\tokatsapplication_v1.1\\tokatsapplication_v1.1\\a1020101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5776BC55-113D-45F5-8550-7121C82E3E29}|TokatsApplication_v1.1\\TokatsApplication_v1.1.csproj|solutionrelative:tokatsapplication_v1.1\\a1020101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,11 +54,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "A1010201.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.Designer.cs",
+              "RelativeDocumentMoniker": "TokatsApplication_v1.1\\A1010201.Designer.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.Designer.cs",
+              "RelativeToolTip": "TokatsApplication_v1.1\\A1010201.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:49:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A1010201.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs",
+              "RelativeDocumentMoniker": "TokatsApplication_v1.1\\A1010201.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "TokatsApplication_v1.1\\A1010201.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:37.108Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataAsync.cs",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\DataAsync.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\DataAsync.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\DataAsync.cs",
-              "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\DataAsync.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\DataAsync.cs",
               "RelativeToolTip": "TokatsApplication_v1.1\\DataAsync.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,47 +92,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Y1010101.Designer.cs",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.Designer.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\Y1010101.Designer.cs",
-              "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.Designer.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.Designer.cs",
               "RelativeToolTip": "TokatsApplication_v1.1\\Y1010101.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T02:49:22.879Z"
+              "WhenOpened": "2025-10-14T02:49:22.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Y1010101.cs",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\Y1010101.cs",
-              "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
               "RelativeToolTip": "TokatsApplication_v1.1\\Y1010101.cs",
-              "ViewState": "AgIAAGYCAAAAAAAAAAAUwKwCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAcwBoBAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T01:09:02.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Y1010101.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\Y1010101.cs",
               "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\Y1010101.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "TokatsApplication_v1.1\\Y1010101.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T01:08:46.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "A1020101.cs",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1020101.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1020101.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\A1020101.cs",
-              "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1020101.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1020101.cs",
               "RelativeToolTip": "TokatsApplication_v1.1\\A1020101.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,15 +140,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "A1010201.cs",
-              "DocumentMoniker": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs",
+              "DocumentMoniker": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs",
               "RelativeDocumentMoniker": "TokatsApplication_v1.1\\A1010201.cs",
-              "ToolTip": "K:\\110000_\u516C\u5171\u4E8B\u696D\u90E8\\110900_\u516C\u5171\u4E8B\u696D\u90E8\u5171\u6709\\@\u5305\u62EC\u696D\u52D9\u7BA1\u7406\u30B7\u30B9\u30C6\u30E0Tokats\\\u958B\u767A\u74B0\u5883\\01_Project\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs",
+              "ToolTip": "C:\\Users\\821040\\TokatsApplication_v1.1\\TokatsApplication_v1.1\\A1010201.cs",
               "RelativeToolTip": "TokatsApplication_v1.1\\A1010201.cs",
-              "ViewState": "AgIAAFgBAAAAAAAAAAAkwHIBAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAALsBAAAAAAAAAAAqwOcBAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T05:13:04.332Z"
+              "WhenOpened": "2025-10-10T05:13:04.332Z",
+              "EditorCaption": ""
             }
           ]
         }
