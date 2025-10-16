@@ -468,19 +468,24 @@ namespace TokatsApplication_v1._1
                 byType.Dock = DockStyle.Top;
                profiel.Controls.Add(byType);
 
-                System.Windows.Forms.Button byPipe = new System.Windows.Forms.Button();
-                byPipe.Size = new Size(167, 35);
-                byPipe.Margin = new Padding(8, 8, 2, 2);
-                byPipe.Text = "管渠調査内容";
-                byPipe.Dock = DockStyle.Top;
-                profiel.Controls.Add(byPipe);
+                System.Windows.Forms.TextBox pass1 = new System.Windows.Forms.TextBox();
+                pass1.Size = new Size(167, 35);
+                pass1.Margin = new Padding(8, 8, 2, 2);
+                pass1.Dock = DockStyle.Top;
+                profiel.Controls.Add(pass1);
 
-                System.Windows.Forms.Button byHole = new System.Windows.Forms.Button();
-                byHole.Size = new Size(167, 35);
-                byHole.Margin = new Padding(8, 8, 2, 2);
-                byHole.Text = "人孔調査内容";
-                byHole.Dock = DockStyle.Top;
-                profiel.Controls.Add(byHole);
+                System.Windows.Forms.Label henkougo = new System.Windows.Forms.Label();
+                henkougo.Size = new Size(167, 35);
+                henkougo.Margin = new Padding(8, 8, 2, 2);
+                henkougo.Text = "変更後のパスワード";
+                henkougo.Dock = DockStyle.Top;
+                profiel.Controls.Add(henkougo);
+
+                System.Windows.Forms.TextBox pass2 = new System.Windows.Forms.TextBox();
+                pass2.Size = new Size(167, 35);
+                pass2.Margin = new Padding(8, 8, 2, 2);
+                pass2.Dock = DockStyle.Top;
+                profiel.Controls.Add(pass2);
 
                 System.Windows.Forms.Button Submit = new System.Windows.Forms.Button();
                 Submit.Size = new Size(167, 35);

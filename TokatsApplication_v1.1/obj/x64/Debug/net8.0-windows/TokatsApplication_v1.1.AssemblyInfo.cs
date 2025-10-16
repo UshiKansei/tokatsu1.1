@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TokatsApplication_v1.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+481fe996ee5ed6619769f2a592ba3f593b749cfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f30ac77f7aaaec70ac709f6915325ae2d3fa1b35")]
 [assembly: System.Reflection.AssemblyProductAttribute("TokatsApplication_v1.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TokatsApplication_v1.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

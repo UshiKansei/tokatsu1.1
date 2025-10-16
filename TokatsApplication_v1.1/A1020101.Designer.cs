@@ -73,6 +73,7 @@
             Panel2_1_Panel3_But1 = new Button();
             Panel2_1_Panel3_Lab1 = new Label();
             Panel2_1_Panel2 = new Panel();
+            textBox1 = new TextBox();
             Panel2_1_Panel2_Lab1 = new Label();
             Panel2_1_Panel1 = new Panel();
             DDTestPanel = new Panel();
@@ -635,6 +636,7 @@
             // 
             // Panel2_1_Panel2
             // 
+            Panel2_1_Panel2.Controls.Add(textBox1);
             Panel2_1_Panel2.Controls.Add(Panel2_1_Panel2_Lab1);
             Panel2_1_Panel2.Dock = DockStyle.Top;
             Panel2_1_Panel2.Location = new Point(10, 90);
@@ -642,6 +644,13 @@
             Panel2_1_Panel2.Padding = new Padding(0, 20, 30, 0);
             Panel2_1_Panel2.Size = new Size(2800, 50);
             Panel2_1_Panel2.TabIndex = 1;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(1397, 14);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(125, 37);
+            textBox1.TabIndex = 1;
             // 
             // Panel2_1_Panel2_Lab1
             // 
@@ -839,5 +848,6 @@
         private ScottPlot.WinForms.FormsPlot Panel2_1_Panel9_Tlayout1_Char1;
         private ScottPlot.WinForms.FormsPlot Panel2_1_Panel9_Tlayout1_Char2;
         private Panel DDTestPanel;
+        private TextBox textBox1;
     }
 }
